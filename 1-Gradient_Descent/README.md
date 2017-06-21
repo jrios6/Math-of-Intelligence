@@ -1,0 +1,1 @@
+Using [House Sales in King County, USA](https://www.kaggle.com/harlfoxem/housesalesprediction) dataset from Kaggle, our goal is to build a model using linear regression with gradient descent to predict housing prices given the size of living space in sqft.
