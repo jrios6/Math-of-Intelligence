@@ -41,3 +41,5 @@ Using the [House Sales in King County, USA](https://www.kaggle.com/harlfoxem/hou
 
 ## Introduction
 This is just a basic implementation of SVM with reference to Siraj's Video, using a toy dataset that can be easily visualised on a 2D plane.
+
+![svm](images/svm_plot.png)
