@@ -3,7 +3,7 @@ An implementation of the Second Order Newton optimization method, demonstrated w
 
 ## Introduction
 This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method) as part of The Math of Intelligence course.
-In this notebook, we will be building a logistic regression model using Newton's 2nd Order Optimization Method instead of the regular gradient descent with numpy.
+In this notebook, we will be building a logistic regression model using Newton's 2nd Order Optimization Method with numpy. Batch gradient ascent is also demonstrated, as another commmonly used optimization method. 
 
 We will be using the Kaggle [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) Data Set to classify if a tumour is malignant or benign, based on 30 features, such as the mean radius.
 
