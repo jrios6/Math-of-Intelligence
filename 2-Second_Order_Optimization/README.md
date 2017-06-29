@@ -1,26 +1,22 @@
-# Second_Order_Optimization_Newtons_Method
+# Logistic Regression with Newton's Method
+An implementation of the second order Newton optimization method, demonstrated with logistic regression.
 
+## Introduction
+This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method) as part of The Math of Intelligence course.
+In this notebook, we will be building a logistic regression model using Newton's 2nd Order Optimization Method instead of the regular gradient descent with numpy.
 
-# Coding Challenge - Due Date, Thursday June 29th 2017 at 12 PM PST
+We will be using the Kaggle [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) Data Set to classify if a tumour is malignant or benign, based on 30 features, such as the mean radius.
 
-This weeks challenge is to implement Newton's Method for optimization from scratch yourself in a Jupyter Notebook. You can use a toy dataset. Bonus points are given if you compare your results to a first order optimization technique or use a dataset from [Kaggle](https://www.kaggle.com/datasets). 
-
-## Overview
-
-This is the code for [this](https://youtu.be/UIFMLK2nj_w) video on Youtube by Siraj Raval as part of The Math of Intelligence course. I've got 2 implementations of Newton's Method here. The first is the root finding version, and the other is the optimization version. They are both written in just numpy and scipy. Newton's Method uses the 2nd derivative for optimizing, which hints at a graphs curvature, has better step-wise performance, but is usually outperformed by gradient descent because computing the 2nd derivative is computationally expensive. 
-
-## Dependencies
-
+## Requirements
+* python3
 * numpy
-* scipy
+* pandas
 * matplotlib
 
-Install dependencies with [pip](https://pip.pypa.io/en/stable/)
-
 ## Usage
+Run `jupyter notebook` in your Python 3 environment
 
-Just run `python name_of_file` in terminal and it will compile.
 
-## Credits
-
-The credits for this code go to [Dsalaj](https://github.com/dsalaj) and [Dhomola](https://gist.github.com/danielhomola). I've merely created a wrapper to get people started.
+## References
+1. [Logistic Regression Newton's Method](https://github.com/llSourcell/logistic_regression_newtons_method) by Siraj Raval  
+2. [CS229 - Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf) by Andrew Ng
