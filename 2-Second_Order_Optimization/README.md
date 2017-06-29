@@ -1,5 +1,5 @@
 # Logistic Regression with Newton's Method
-An implementation of the second order Newton optimization method, demonstrated with logistic regression.
+An implementation of the Second Order Newton optimization method, demonstrated with logistic regression.
 
 ## Introduction
 This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method) as part of The Math of Intelligence course.
