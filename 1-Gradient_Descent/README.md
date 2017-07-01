@@ -13,7 +13,7 @@ An implementation of gradient descent with linear regression and support vector 
 Run `jupyter notebook` in your Python 3 environment
 
 ## References
-1. [Intro to Marth of Intelligence](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence) by Siraj Raval
+1. [Intro to Math of Intelligence](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence) by Siraj Raval
 2. [Visualizing and Animating Optimization Algorithms with Matplotlib](http://louistiao.me/posts/notebooks/visualizing-and-animating-optimization-algorithms-with-matplotlib/) by Louis Tiao
 3. [Gradient Descent Examples](https://github.com/mattnedrich/GradientDescentExample) by Matt Nedrich
 4. [Classifying Data Using a Support Vector Machine](https://github.com/llSourcell/Classifying_Data_Using_a_Support_Vector_Machine) by Siraj Raval
