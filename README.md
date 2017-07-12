@@ -10,3 +10,6 @@ Implemented Newton's Method for second order optimization and batch gradient des
 
 ### Week 3 - L1 and L2 Regularization
 Implemented L1 and L2 Normalization on a linear regression model.
+
+### Week 4 - Self-Organizing Feature Maps
+Implemented Kohonen's Self-Organizing Feature Maps for unsupervised learning of RGB and MNIST dataset.

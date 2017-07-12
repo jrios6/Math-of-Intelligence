@@ -1,5 +1,5 @@
 # Self-Organizing Feature Maps
-An implementation of Kohonen's Self-Organizing Feature Maps in numpy.
+An implementation of Kohonen's Self-Organizing Feature Maps for unsupervised learning of RGB and MNIST dataset.
 
 ## Introduction
 The goal of this notebook is to build and understand the properties of Kohonen's Self-Organizing Feature Maps, an unsupervised learning technique for representing high dimensional data in much lower dimensional spaces, while maintaining the topological relationships within the training set.
