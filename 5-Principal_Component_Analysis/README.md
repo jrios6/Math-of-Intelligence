@@ -5,7 +5,7 @@ An implementation of Principle Component Analysis for compression of facial imag
 Using the [ORL Database of Faces](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) from Cambridge University, the motivation of this notebook is to examine the mathematical concepts underlying Principal Component Analysis for effective compression of facial images, known as 'eigenfaces'.
 
 ## About PCA
-PCA is a dimensionality reduction technique used for pattern idetification in high-dimensional data by projecting it on a smaller dimensional subspace, while retaining most of its information. For instance, we may be given a dataset with  $x_i$  and  $x_j$  attributes, where one is the size of a house in square feet and the other is the size in square metres. PCA automatically detects and remove these linearly dependent attributes by projecting the dataset on a smaller dimensional subspace. 
+PCA is a dimensionality reduction technique used for pattern idetification in high-dimensional data by projecting it on a smaller dimensional subspace, while retaining most of its information. For instance, we may be given a dataset with x1 and x2 attributes, where one is the size of a house in square feet and the other is the size in square metres. PCA automatically detects and remove these linearly dependent attributes by projecting the dataset on a smaller dimensional subspace. 
 In addition, using PCA allows us to reduce our data to 2 or 3 dimensions for visualisation.
 
 ### Visualisation of Reconstructed Facial Images across different K Values.
