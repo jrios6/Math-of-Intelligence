@@ -12,3 +12,6 @@ Implemented L1 and L2 Normalization on a linear regression model.
 
 ### Week 4 - Self-Organizing Feature Maps
 Implemented Kohonen's Self-Organizing Feature Maps for unsupervised learning of RGB and MNIST dataset.
+
+### Week 5 - Principle Component Analysis
+Implemented Principle Component Analysis for compression of facial images - 'eigenfaces'.
