@@ -1,5 +1,5 @@
 # Principle Component Analysis
-An implementation of Principle Component Analysis for compression of facial images.
+An implementation of Principle Component Analysis for compression of facial images - 'eigenfaces'.
 
 ## Introduction
 Using the [ORL Database of Faces](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) from Cambridge University, the motivation of this notebook is to examine the mathematical concepts underlying Principal Component Analysis for effective compression of facial images, known as 'eigenfaces'.
